@@ -1,0 +1,13 @@
+[terminal.shell]
+args = ["-l"]
+program = "/bin/zsh"
+
+[window]
+decorations = "full"
+dynamic_title = true
+title = "Progressio's Alacritty"
+
+[window.padding]
+x = 5
+y = 1
+
